@@ -57,7 +57,7 @@ The objective of this project is to develop an easy-to-use calculator that combi
 
 ## 👨‍💻 Developer
 
-**Rishi Yadav**  
+**Tinkal Sonkar**  
 Data Science Intern  
 Nexthikes IT Solution
 
